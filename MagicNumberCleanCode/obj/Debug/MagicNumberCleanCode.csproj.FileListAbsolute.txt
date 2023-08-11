@@ -1,0 +1,8 @@
+C:\Users\albin.kurian\Desktop\DotNet\section7\assignment\MagicNumberCleanCode\MagicNumberCleanCode\bin\Debug\MagicNumberCleanCode.exe.config
+C:\Users\albin.kurian\Desktop\DotNet\section7\assignment\MagicNumberCleanCode\MagicNumberCleanCode\bin\Debug\MagicNumberCleanCode.exe
+C:\Users\albin.kurian\Desktop\DotNet\section7\assignment\MagicNumberCleanCode\MagicNumberCleanCode\bin\Debug\MagicNumberCleanCode.pdb
+C:\Users\albin.kurian\Desktop\DotNet\section7\assignment\MagicNumberCleanCode\MagicNumberCleanCode\obj\Debug\MagicNumberCleanCode.csproj.AssemblyReference.cache
+C:\Users\albin.kurian\Desktop\DotNet\section7\assignment\MagicNumberCleanCode\MagicNumberCleanCode\obj\Debug\MagicNumberCleanCode.csproj.SuggestedBindingRedirects.cache
+C:\Users\albin.kurian\Desktop\DotNet\section7\assignment\MagicNumberCleanCode\MagicNumberCleanCode\obj\Debug\MagicNumberCleanCode.csproj.CoreCompileInputs.cache
+C:\Users\albin.kurian\Desktop\DotNet\section7\assignment\MagicNumberCleanCode\MagicNumberCleanCode\obj\Debug\MagicNumberCleanCode.exe
+C:\Users\albin.kurian\Desktop\DotNet\section7\assignment\MagicNumberCleanCode\MagicNumberCleanCode\obj\Debug\MagicNumberCleanCode.pdb
